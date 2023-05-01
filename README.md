@@ -12,24 +12,29 @@
 >-🎓Academic Ability🎓
 >> __숙명여자대학교 컴퓨터과학전공 4학년 재학
 
-## Skills
-<p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
- 
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/> 
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Unity-007396?style=flat-square&logo=Unity&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Unreal-007396?style=flat-square&logo=Unreal&logoColor=white"/> 
-</p>
+
+### 🥇Career🥇
+  - 교내 알고리즘 학회 ALGOS 기획부장 (20.03~21.12)
+  - 교내 천체관측 중앙동아리 하늘섬 회장 (19.03~21.12) 
+  - 교내 교육봉사 리더십그룹 숙명지식봉사단 정회원(19.03~22.12)
+  - 2021 겨울학기 카이스트 몰입캠프 참가 (21.12~22.01)
+  - 구글 머신러닝 스터디잼 (22.04~22.05)
+  - 2022 상반기 ICT 인턴십 크리스피 인턴 (22.03~22.08)
+  - 브이알애드 VR 의료교육용 시뮬레이터 개발(22.09~22.11)
+
+### :trophy:Award:trophy:
+- 용산구 대학생 멘토링 최우수 멘토 용산구청장 표창장
+- 한강지킴이 동아리 서울시장 표창장
+
+### 📑Portfolio📑
+
+  - <Mobile_programming project> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>&nbsp;
+    - 탭 구조를 활용한 안드로이드 앱 제작
+    - 나만의 이미지 갤러리 구축
+    - 나의 연락처 구축, 휴대폰의 연락처 데이터 활용
+    - 텐서플로우 Lite를 활용한 사물인식 탭
+    - ARCore를 활용한 얼굴이닉 및 가면 스티커 탭
+    - [깃허브 링크]([https://github.com/DevNexy/Android_Studio_Project](https://github.com/metamong-Hi/flow))
 
 [![Moonlight's GitHub stats](https://github-readme-stats.vercel.app/api?username=artist-moonlight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
