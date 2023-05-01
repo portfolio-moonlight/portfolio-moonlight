@@ -9,7 +9,7 @@
 >> 이서진 (Seojin Lee)
 > - __E-mail__
 >> seojinlee2257@naver.com
->> > - 🎓Academic Ability🎓
+>-🎓Academic Ability🎓
 >> __숙명여자대학교 컴퓨터과학전공 4학년 재학
 
 ## Skills
