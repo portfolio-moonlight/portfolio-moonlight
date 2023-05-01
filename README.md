@@ -9,7 +9,7 @@
 >> 이서진 (Seojin Lee)
 > - __E-mail__
 >> seojinlee2257@naver.com
->-🎓Academic Ability🎓
+> - 🎓Academic Ability🎓
 >> __숙명여자대학교 컴퓨터과학전공 4학년 재학
 
 
@@ -34,7 +34,7 @@
     - 나의 연락처 구축, 휴대폰의 연락처 데이터 활용
     - 텐서플로우 Lite를 활용한 사물인식 탭
     - ARCore를 활용한 얼굴이닉 및 가면 스티커 탭
-    - [깃허브 링크]([https://github.com/DevNexy/Android_Studio_Project](https://github.com/metamong-Hi/flow))
+    - [깃허브 링크](https://github.com/metamong-Hi/flow))
 
 [![Moonlight's GitHub stats](https://github-readme-stats.vercel.app/api?username=artist-moonlight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
