@@ -42,7 +42,7 @@
     - 이미지 트래킹과 가속도 센서를 활용한 AR 방탈출 게임
     - [시연영상 링크](https://www.youtube.com/watch?v=9qGnbj1KsQk)
     - [깃허브 링크](https://github.com/victoria0406/madcamp_week3)
-    - 
+   
   - <Web_programming project> <img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>&nbsp;
     - 별자리 북마크 웹 제작
     - 별을 생성하고 더블클릭하여 북마크 이름과 링크 저장
