@@ -34,7 +34,7 @@
     - 나만의 이미지 갤러리 구축
     - 나의 연락처 구축, 휴대폰의 연락처 데이터 활용
     - 텐서플로우 Lite를 활용한 사물인식 탭
-    - ARCore를 활용한 얼굴이닉 및 가면 스티커 탭
+    - ARCore를 활용한 얼굴인식 및 가면 스티커 탭
     - [깃허브 링크](https://github.com/metamong-Hi/flow)
 
   - <Game_programming project> <img src="https://img.shields.io/badge/Unity-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>&nbsp;
