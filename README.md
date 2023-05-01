@@ -50,8 +50,14 @@
     - 별을 생성하고 더블클릭하여 북마크 이름과 링크 저장
     - [깃허브 링크](https://github.com/MIN60/Star-Mark)
 
+  - <Web_programming project> <img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>&nbsp;
+    - 감명 깊은 글귀를 기록 및 공유할 수 있는 인생 글귀 웹사이트 제작
+    - 글귀 등록 및 조회
+    - [시연영상 링크](https://drive.google.com/file/d/1QuV98Iw3JHx37LFe3XGZCNRO__VkVbyx/view)
+    - [깃허브 링크](https://github.com/Ahreumvit-Snowflake))
 
 
+https://github.com/Ahreumvit-Snowflake
 [![Moonlight's GitHub stats](https://github-readme-stats.vercel.app/api?username=artist-moonlight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 moonlight
