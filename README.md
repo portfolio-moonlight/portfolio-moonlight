@@ -54,7 +54,7 @@
     - 감명 깊은 글귀를 기록 및 공유할 수 있는 인생 글귀 웹사이트 제작
     - 글귀 등록 및 조회
     - [시연영상 링크](https://drive.google.com/file/d/1QuV98Iw3JHx37LFe3XGZCNRO__VkVbyx/view)
-    - [깃허브 링크](https://github.com/Ahreumvit-Snowflake))
+    - [깃허브 링크](https://github.com/Ahreumvit-Snowflake)
 
 
 https://github.com/Ahreumvit-Snowflake
